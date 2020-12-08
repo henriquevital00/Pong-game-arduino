@@ -4,8 +4,17 @@
 
 **Surce code in tinkercad: https://www.tinkercad.com/things/79ahG2bUkxr**
 
-## What is this game
-Pong game is a table tennis–themed arcade video game.
+<!-- TABLE OF CONTENTS -->
+## Table of contents
+
+* [About the game](#about-the-project)
+* [Circuit](#circuit)
+* [Instructions](#instructions)
+* [How to play](#how-to-play)
+* [Youtube](#youtube)
+
+## About the game
+Pong is a table tennis–themed arcade video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972.
 
 ## Circuit
 ![image](images/circuit.png)
@@ -21,7 +30,7 @@ In this game the user controls the lower bar, the objective of this game is the 
 
     ![image](images/lcd_score.png)
 
-* In the end of the game will be show the total score of the player with the game over message
+* The end of the game will be show the total score of the player with the game over message
 
     ![image](images/lcd_game_over.png)
 
@@ -32,14 +41,21 @@ In this game the user controls the lower bar, the objective of this game is the 
 
 1. **Start, restart and stop the game.**
 
-    ![image](images/circuit_start.jpg)
+
+![image](images/circuit_start.jpg)
 
 2. **Move the bar to the left**.
 
-    ![image](images/circuit_move_left.jpg)
+
+![image](images/circuit_move_left.jpg)
 
 3. **Move the bar to the right**
 
+
     ![image](images/circuit_move_right.jpg)
 
+# Youtube
+[![](http://img.youtube.com/vi/r8nnfVVRJBg/0.jpg)](http://www.youtube.com/watch?v=r8nnfVVRJBg "Pong game video")
+
 # Enjoy the game
+
